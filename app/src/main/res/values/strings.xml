@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FileSalvage</string>
+    <string name="scan_quick">Quick Scan</string>
+    <string name="scan_deep">Deep Scan</string>
+    <string name="scan_full">Full Recovery Scan</string>
+    <string name="recover">Recover</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_all">Select All</string>
+    <string name="files_found">files found</string>
+</resources>
